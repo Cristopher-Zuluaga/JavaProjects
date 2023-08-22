@@ -1,6 +1,3 @@
-
-package condicional.ejemplo.pkg2;
-
 public class CondicionalEjemplo2 
 {
     public static void main(String[] args) 
