@@ -1,8 +1,5 @@
-
-package arbol;
-
-public class Arbol {
-
+public class Arbol 
+    {
     public static void main(String[] args)
     {
         System.out.println("¡Hola! Soy Cristopher Zuluaga y ahora veras un arbol hecho por mi en java");
@@ -15,6 +12,5 @@ public class Arbol {
         System.out.println("    *    ");
         System.out.println("    *    ");
         System.out.println("    *    ");
-    }
-    
+    } 
 }
