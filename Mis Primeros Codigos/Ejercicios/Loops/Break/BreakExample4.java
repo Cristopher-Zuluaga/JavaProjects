@@ -1,6 +1,5 @@
 public class BreakExample4 {  
-public static void main(String[] args) {  
-    //while loop  
+public static void main(String[] args) {   
     int i=1;  
     while(i<=10){  
         if(i==5){   
